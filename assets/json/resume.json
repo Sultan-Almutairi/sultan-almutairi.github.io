@@ -1,35 +1,53 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Sultan Almutairi",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sultan@su.edu.sa",
+    "phone": "(966) 500-334-243",
+    "url": "https://sultan-almutairi.github.io/",
+    "summary": "..........",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "15526, Al Asfar Dist",
+      "postalCode": "17531",
+      "city": "Shaqra",
+      "countryCode": "KSA",
+      "region": "Ryaidh"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "S_O_Almutairi",
+        "url": "https://x.com/S_O_Almutairi"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Department of Computer Science, Applied College, Shaqra University",
+      "position": "Assistant Professor of Software Engineering",
+      "url": "https://www.su.edu.sa/en",
+      "startDate": "2023-12-20",
+      "endDate": "Present",
+      "summary": "Teaching at .",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Department of Computer Science, University of York",
+      "position": "Research Associate",
+      "url": "https://www.york.ac.uk/",
+      "startDate": "2018-01-01",
+      "endDate": "2023-07-22",
+      "summary": "Teaching at .",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Department of Computer Science, Shaqra University",
+      "position": "Lecturer",
+      "url": "https://www.su.edu.sa/en",
+      "startDate": "2013-01-01",
+      "endDate": "2017-12-30",
+      "summary": "Teaching at .",
       "highlights": ["Relativity"]
     }
   ],
@@ -47,13 +65,35 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of York, York, UK",
+      "location": "York, UK",
+      "url": "https://www.york.ac.uk/",
+      "area": "Software Development (Computer Science)",
+      "studyType": "Ph.D.",
+      "startDate": "2018-01-01",
+      "endDate": "2023-07-22",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "University of Bangor, Bangor, UK",
+      "location": "Bangor, UK",
+      "url": "https://www.bangor.ac.uk/",
+      "area": "Computer Science",
+      "studyType": "M.Sc",
+      "startDate": "2015-09-01",
+      "endDate": "2016-09-30",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    },
+    {
+      "institution": "University of York, York, UK",
+      "location": "York, UK",
+      "url": "https://www.su.edu.sa/en",
+      "area": "Computer Science",
+      "studyType": "B.Sc.",
+      "startDate": "2018-01-01",
+      "endDate": "2023-07-22",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
@@ -151,7 +191,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Arabic",
       "fluency": "Native speaker",
       "icon": ""
     },
